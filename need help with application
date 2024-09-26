@@ -1,0 +1,3 @@
+Hi, I am looking to make a windows (?) applikaction with a popup window that will check a certain website for me regularly and if certain block of the website will change (color or value) then I will need to take actions. lets say there is a big cinema displaying how seats are taken. 
+seats are represented by green tiles, and if someone resign from their place, the spot is free and changes color, then i would want my application to take the mouse and go to "my" seat at the back and drag the seat from the place I already have it to a better spot. i am trying to make 
+it in macro commander but i dont know how to pull a coordinate from a text file, so i better thought, maybe its better to build an application. i have completely no idea how to do it..      
